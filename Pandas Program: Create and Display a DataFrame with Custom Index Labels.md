@@ -30,6 +30,6 @@ df = pd.DataFrame(exam_data , index=labels)
 print(df)
 ```
 ## Output
-
+  ![alt text](<Screenshot 2026-03-26 195238.png>) 
 ## Result
 Thus,the program has been executed successfully.
