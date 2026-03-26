@@ -22,6 +22,6 @@ print(np.where(x==y))
 ```
 
 ## Output
-
+![alt text](<Screenshot 2026-03-26 195305.png>)
 ## Result
 Thus,the program has been executed successfully.
