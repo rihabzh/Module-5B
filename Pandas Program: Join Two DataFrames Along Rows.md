@@ -34,6 +34,6 @@ print(mer)
 ```
 
 ## Output
-
+![alt text](<Screenshot 2026-03-26 195230.png>)
 ## Result
 Thus,the program has been executed successfully.
